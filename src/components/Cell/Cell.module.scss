@@ -1,0 +1,7 @@
+.cell {
+    @apply w-[100px] h-[100px] cursor-pointer;
+}
+
+.isActive {
+    @apply w-[60px] h-[60px] bg-green-500 rounded-[50%] m-auto mt-[20px];
+}
